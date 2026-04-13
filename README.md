@@ -1,23 +1,21 @@
 # Embedded Linux & Platform Engineering Portfolio
 
-## 🔹 Practical Experience
+Software Engineer with hands-on experience in Embedded Linux system deployment, platform bring-up, and Yocto-based image build workflows within secure real-time communication environments.
 
-* Worked on Embedded Linux system setup, configuration, deployment, and troubleshooting in mission-critical environments
-* Supported system provisioning using **DHCP, DNS, TFTP, and PXE-based network boot workflows**
-* Assisted in **USB boot, network boot, and platform bring-up activities**
-* Gained hands-on exposure to **Yocto Project image builds, layer structures, and recipe workflows**
-* Supported **ARM and Intel image build and deployment activities**
-* Participated in system-level testing, validation, and issue analysis
-* Worked with **Linux networking and communication platform environments**
+##  Work Highlights
 
-## 🔹 Current Focus
+* Supported **Embedded Linux system setup, configuration, deployment, and troubleshooting**
+* Worked with **DHCP, DNS, TFTP, and PXE-based network boot workflows**
+* Assisted in **target hardware bring-up, USB boot, and network boot configuration**
+* Participated in **Yocto Project image builds, layer structure understanding, and recipe workflows**
+* Supported **ARM and Intel platform image build and OS customization activities**
+* Contributed to **SIP / VoIP communication software deployment and integration testing**
+* Gained exposure to **Linux networking, automation, and performance validation workflows**
 
-* Yocto recipe and layer customization
-* Linux internals and debugging
-* Cross-platform image builds
-* Embedded platform engineering
-* Automation and system provisioning workflows
+##  Core Technologies
 
-## 🔹 Career Goal
+Embedded Linux | Yocto | PXE | DHCP | DNS | TFTP | SIP | VoIP | ARM | Intel | Linux Networking
+
+##  Career Goal
 
 Building strong expertise in **Embedded Linux, Yocto, and Platform Engineering** with a focus on global opportunities .
